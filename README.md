@@ -14,7 +14,7 @@ It serves as a practical project for learning and showcasing Android app develop
 
 ---
 
-## 📸 Screenshots
+## 📸 Calculator Application Screenshots
 
 | Home Screen | Features |
 |-------------|----------|
@@ -22,7 +22,7 @@ It serves as a practical project for learning and showcasing Android app develop
 
 ---
 
-## 📸 Screenshots
+## 📸 To-Do List Application Screenshots
 
 | Home Screen | Features |
 |-------------|----------|
@@ -30,11 +30,11 @@ It serves as a practical project for learning and showcasing Android app develop
 
 ---
 
-## 📸 Screenshots
+## 📸 Weather App Application Screenshots
 
 | Home Screen | Features |
 |-------------|----------|
-| ![screenshot1](calc/app/screenshots/screenshot12.jpg) | ![screenshot12](calc/app/screenshots/screenshot1.jpg) |
+| ![screenshot1](Weather_App/app/screenshots/screenshot32.jpg) | ![screenshot12](Weather_App/app/screenshots/screenshot3.jpg) |
 
 ---
 
