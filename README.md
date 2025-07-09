@@ -1,19 +1,16 @@
-# 📱 Alfido - Android App
+# 📱Android App
 
-**Alfido** is a simple and clean Android application developed using Java and Android Studio.  
+This are a simple and clean Android application developed using Java and Android Studio.  
 It serves as a practical project for learning and showcasing Android app development skills.
 
 ---
 
 ## ✨ Features
 
-- 🧮 Calculator with basic operations *(example)*
-- ✅ To-Do List with task tracking *(if added)*
-- 🌦️ Weather App using OpenWeatherMap API *(if applicable)*
-- 🔔 Notification or ringtone support *(if included)*
+- 🧮 Calculator with basic operations 
+- ✅ To-Do List with task tracking 
+- 🌦️ Weather App using OpenWeatherMap API 
 - 💡 Dark mode support
-
-> *(Update the list based on your app features!)*
 
 ---
 
@@ -21,9 +18,11 @@ It serves as a practical project for learning and showcasing Android app develop
 
 | Home Screen | Features |
 |-------------|----------|
-| ![screenshot1](screenshots/screen1.png) | ![screenshot2](screenshots/screen2.png) |
+| ![screenshot1](calc/app/screenshots/screenshot12.jpg) | ![screenshot12](calc/app/screenshots/screenshot1.jpg) |
 
-> Save your screenshots inside a folder named `screenshots/` in the root directory.
+| ![screenshot2](To_Do_List/app/screenshots/screenshot22.jpg) | ![screenshot22](To_Do_List/app/screenshots/screenshot2.jpg) |
+
+| ![screenshot3](Weather_App/app/screenshots/screenshot32.jpg) | ![screenshot32](Weather_App/app/screenshots/screenshot3.jpg) |
 
 ---
 
@@ -32,7 +31,7 @@ It serves as a practical project for learning and showcasing Android app develop
 - Java
 - Android Studio
 - XML for UI
-- [OpenWeatherMap API](https://openweathermap.org/) *(if used)*
+- [OpenWeatherMap API](https://openweathermap.org/)
 - Git + GitHub for version control
 
 ---
