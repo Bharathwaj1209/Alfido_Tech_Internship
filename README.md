@@ -26,7 +26,7 @@ It serves as a practical project for learning and showcasing Android app develop
 
 | Home Screen | Features |
 |-------------|----------|
-| ![screenshot1](o_Do_List/app/screenshots/screenshot22.jpg) | ![screenshot12](To_Do_List/app/screenshots/screenshot2.jpg) |
+| ![screenshot1](To_Do_List/app/screenshots/screenshot22.jpg) | ![screenshot12](To_Do_List/app/screenshots/screenshot2.jpg) |
 
 ---
 
