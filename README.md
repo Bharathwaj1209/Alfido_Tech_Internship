@@ -20,10 +20,6 @@ It serves as a practical project for learning and showcasing Android app develop
 |-------------|----------|
 | ![screenshot1](calc/app/screenshots/screenshot12.jpg) | ![screenshot12](calc/app/screenshots/screenshot1.jpg) |
 
-| ![screenshot2](To_Do_List/app/screenshots/screenshot22.jpg) | ![screenshot22](To_Do_List/app/screenshots/screenshot2.jpg) |
-
-| ![screenshot3](Weather_App/app/screenshots/screenshot32.jpg) | ![screenshot32](Weather_App/app/screenshots/screenshot3.jpg) |
-
 ---
 
 ## 🛠️ Tech Stack
