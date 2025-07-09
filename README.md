@@ -22,6 +22,22 @@ It serves as a practical project for learning and showcasing Android app develop
 
 ---
 
+## 📸 Screenshots
+
+| Home Screen | Features |
+|-------------|----------|
+| ![screenshot1](calc/app/screenshots/screenshot12.jpg) | ![screenshot12](calc/app/screenshots/screenshot1.jpg) |
+
+---
+
+## 📸 Screenshots
+
+| Home Screen | Features |
+|-------------|----------|
+| ![screenshot1](calc/app/screenshots/screenshot12.jpg) | ![screenshot12](calc/app/screenshots/screenshot1.jpg) |
+
+---
+
 ## 🛠️ Tech Stack
 
 - Java
